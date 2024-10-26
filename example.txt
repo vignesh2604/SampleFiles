@@ -1,0 +1,4 @@
+Created new file
+using windows command prompt
+command for that is 
+"copy con <filname.txt>"
